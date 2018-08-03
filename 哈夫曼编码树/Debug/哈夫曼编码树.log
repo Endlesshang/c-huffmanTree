@@ -1,0 +1,23 @@
+﻿生成启动时间为 2016-12-27 16:29:13。
+     1>项目“D:\程序设计实践\哈夫曼编码树\哈夫曼编码树\哈夫曼编码树.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "哈夫曼编码树.cpp"
+         哈夫曼编码树.cpp
+     1>d:\程序设计实践\哈夫曼编码树\哈夫曼编码树\哈夫曼编码树.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\程序设计实践\哈夫曼编码树\哈夫曼编码树\哈夫曼编码树.cpp(55): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\程序设计实践\哈夫曼编码树\哈夫曼编码树\哈夫曼编码树.cpp(76): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\程序设计实践\哈夫曼编码树\哈夫曼编码树\哈夫曼编码树.cpp(113): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\程序设计实践\哈夫曼编码树\哈夫曼编码树\哈夫曼编码树.cpp(180): warning C4002: “assert”宏的实参太多
+     1>d:\程序设计实践\哈夫曼编码树\哈夫曼编码树\哈夫曼编码树.cpp(197): warning C4002: “assert”宏的实参太多
+     1>d:\程序设计实践\哈夫曼编码树\哈夫曼编码树\哈夫曼编码树.cpp(204): warning C4002: “assert”宏的实参太多
+     1>d:\程序设计实践\哈夫曼编码树\哈夫曼编码树\哈夫曼编码树.cpp(527): warning C4018: “>”: 有符号/无符号不匹配
+     1>d:\程序设计实践\哈夫曼编码树\哈夫曼编码树\哈夫曼编码树.cpp(484): warning C4018: “<”: 有符号/无符号不匹配
+                 d:\程序设计实践\哈夫曼编码树\哈夫曼编码树\哈夫曼编码树.cpp(568): 参见对正在编译的函数 模板 实例化“void cipherToplain<char>(HuffTree<char> *,char *)”的引用
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\程序设计实践\哈夫曼编码树\Debug\哈夫曼编码树.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\程序设计实践\哈夫曼编码树\Debug\哈夫曼编码树.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\程序设计实践\哈夫曼编码树\Debug\哈夫曼编码树.lib" /MACHINE:X86 "Debug\哈夫曼编码树.obj"
+         哈夫曼编码树.vcxproj -> D:\程序设计实践\哈夫曼编码树\Debug\哈夫曼编码树.exe
+     1>已完成生成项目“D:\程序设计实践\哈夫曼编码树\哈夫曼编码树\哈夫曼编码树.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.83
